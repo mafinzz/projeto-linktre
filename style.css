@@ -25,11 +25,13 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body *{
   font-family:arial ;
   color: var(--text-color);
+  
 
 }
 
@@ -39,7 +41,7 @@ body *{
   max-width: 588px;
 
   padding: 0 42px;
-  margin: 56px auto; 
+  margin: 56px auto 0px; 
  
 }
 #profile img {

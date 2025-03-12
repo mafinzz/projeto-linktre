@@ -5,12 +5,12 @@
 }
 :root{
   --text-color: white;
-  --bg-url: url(./assets/bg-mobile.jpg);
+  --bg-url: url(/assets/bg-mobile.jpg);
   --stroke-color: rgba(157, 157, 157, 0.5);
   --surface-color:rgba(255, 255, 255, 0.05);
   --surface-color-hover:rgba(0, 0, 0, 0.02);
   --hightlight-color: rgba(225, 225, 225, 0.2);
-  --swit-bg-url: url(./star.svg);
+  --swit-bg-url: url(/assets/star.svg);
 
 }
 .light{
@@ -20,7 +20,7 @@
   --surface-color:rgba(0, 0, 0, 0.05);
   --surface-color:rgba(0, 0, 0, 0.02);
   --hightlight-color: rgba(0, 0, 0, 0.061);
-  --swit-bg-url: url(./sun.svg);
+  --swit-bg-url: url(/assets/sun.svg);
 }
 
 body {

@@ -20,7 +20,7 @@
   --surface-color:rgba(0, 0, 0, 0.05);
   --surface-color:rgba(0, 0, 0, 0.02);
   --hightlight-color: rgba(0, 0, 0, 0.061);
-  --swit-bg-url: url/sun.svg);
+  --swit-bg-url: url(sun.svg);
 }
 
 body {
